@@ -43,4 +43,35 @@ Perl 是一种能完成任务的语言。从一开始，Perl 就设计成可以�
 https://knightyun.github.io/2018/04/15/kali-linux-install#1
 
 
+======================================================================================================================================
 
+    常用工具简介
+
+firefox 浏览器
+terminal 终端
+files 文件
+metasploit framework
+          Metasploit Framework是一个编写，测试和使用exploit代码的完善环境。
+          这个环境为渗透测试，shellcode编写和漏洞研究提供了一个可靠的平台，
+          这个框架主要是由面向对象的Ruby编程语言编写的，并带有由C语言，汇编程序和Python编写的可选组件。
+armitage
+          Armitage 是一款 Java 写的 Metasploit 图形界面化的攻击软件，
+          可以用它结合 Metasploit 中已知的 exploit 来针对主机存在的漏洞自动化攻击。
+         
+burpsuite
+          Burp Suite 是用于攻击web 应用程序的集成平台，包含了许多工具。
+          Burp Suite为这些工具设计了许多接口，以加快攻击应用程序的过程。
+          所有工具都共享一个请求，并能处理对应的HTTP 消息、持久性、认证、代理、日志、警报。
+maltego
+          Maltego是一个开源的漏洞评估工具，它主要用于论证一个网络内单点故障的复杂性和严重性。
+          该工具能够聚集来自内部和外部资源的信息，并且提供一个清晰的漏洞分析界面。          
+beef xss framework
+          BeEf,The Browser Exploitation Framework缩写，
+          攻击者可以对目标进行攻击测试，攻击成功以后会加载浏览器劫持会话，
+          它扩展了跨站漏洞的利用，能HOOK很多浏览器(IE和Firefox等)并可以执行很多内嵌命令。
+faraday IDE
+          Faraday带来一种全新概念——IPE(即集成化渗透测试环境)，即一套多渗透测试IDE。
+          其设计目标在于对安全审计期间生成的数据进行分发、索引与分析。
+Leafpad 
+          Leafpad是一款linux下的轻量级编辑器。
+          类似于windows下的notepad（记事本），它和mousepad是双胞胎，出自同一个作者。
